@@ -1,2 +1,2 @@
 # plotly
-#deploy in herokku cloud
+#deploy in heroku cloud
